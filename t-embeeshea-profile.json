@@ -1,26 +1,39 @@
 {
   "TermsOfServiceVersion": 1,
-  "TermsAgreedToWhen": "2023-01-02T12:20:25Z",
+  "TermsAgreedToWhen": "2023-01-13T15:46:29Z",
   "IdClaims": [
     {
       "Claim": "t:embeeshea"
     },
     {
-      "Claim": "mdon:@mbshea@toad.social"
+      "Claim": "gh:typoidmary"
     },
     {
-      "Claim": "gh:TypoidMary"
+      "Claim": "mdon:@mbshea@toad.social"
     }
   ],
-  "IdDisclaims": null,
+  "IdDisclaims": [
+    {
+      "Claim": "med:no-account"
+    },
+    {
+      "Claim": "pat:no-account"
+    },
+    {
+      "Claim": "post:no-account"
+    },
+    {
+      "Claim": "ss:no-account"
+    }
+  ],
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "e260d746e632b953a6a3a2b2",
-    "Timestamp": "2023-01-09T15:28:58Z",
-    "Signature": "1ddca3a611227cdcf0ff767f01220732a427d3acc3fc16a156c484bca0ab5b32428a35343f0139dadfd0960d443cbcf9a54e7347d6b93e0da6b6f6927aa2a7c1b10cd81558d0bed9c5b2948fa0e5e0dfd2ffc637cbbf4b20a3f66e2bdbfed20d97cd37387b5626ece7dd11c1d572a5cdc9a1c277dbb427719746d788204bce8ca78f3a90771437c9af3d1dcecd57f9a96f3bf668f912add0c6a0782b6d9905c5f2efb6fa82cdc8f971a7fd48e6a9d0dd17b3a78a465730dea08291f886f8c6825fa5ad2a7f4343f181bce5dae46939c8058989ebd02aca12f303f93896dfa8dd6b7dc6076c5aad4d324147f416cd01fabe87f2059b987cb063f51211a16aee3a"
+    "Nonce": "9e4ab5cdf7fc14af7294f02f",
+    "Timestamp": "2023-01-13T15:48:37Z",
+    "Signature": "6f0cd2f3644eb4ecd7533a8f3295b9328936deaaa37d9d43ffebb06b5c0251a9667d6bceb91395bbd01bd7dc0a3ef44296e5654272dc4066b5ccdcf8808b3bef0ded05f75db54dd899c9fa2698eb730b6e81313f29ab60609ad2a770a550bd40fdb431f1a44b1d2afff7ff9a26129ed707722bb75b1cc8189d4b58e507d6e7dc20d86baf26d6d99d9ec90757624bfd232b80c50d0bad2bae9c486c0c2a711b90d4fea6513bb14350c4d9d3d98a505f55d2ff706f5c45c835fdc5fa93993bafbd9370ec0776a14a8983c84a8d2e0903ee100c8e02e2a00a7236c9cca2b1308bf0f7910f68086d16eb496ff489af37973f985d19fe715ae431048b3bd05a2d1361"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "90709e987560ff993a71f5b56742838ac8f414f4aceb3a8c1a08072cf47b6f3e",
-  "ContentToHash": "v1|gh:TypoidMary,mdon:@mbshea@toad.social,t:embeeshea|2023-01-02T12:20:25Z"
+  "ContentSha256": "36007e3a896e2f6f693f07785c1dce8e21f09e23e192398a3ecf1d3d712d1003",
+  "ContentToHash": "v1|gh:typoidmary,mdon:@mbshea@toad.social,med:no-account,pat:no-account,post:no-account,ss:no-account,t:embeeshea|2023-01-13T15:46:29Z"
 }
